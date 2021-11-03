@@ -2,7 +2,7 @@
 HTML: 
 <pre>
 <code>
-<button id="print">Print</button>
+&lt;button id="print"&gt;Print&lt;/button&gt;
 <div id="print-body">
   Content
 </div>
