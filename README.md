@@ -1,6 +1,7 @@
 # JS-Print-Element
 HTML: 
-<xmp>
+<pre>
+<code>
 <button id="print">Print</button>
 <div id="print-body">
   Content
@@ -8,4 +9,5 @@ HTML:
 $('#print').click(function(event) {
   $("#print-body").print();
 });
-</xmp>
+</code>
+</pre>
